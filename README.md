@@ -10,5 +10,5 @@ then
 
 reference: http://carbon.nesbot.com/docs/#api-testing
 
-credit: Q https://github.com/prapats
+credit: Mr Q (at) https://github.com/prapats
 
