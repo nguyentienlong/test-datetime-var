@@ -1,0 +1,26 @@
+{
+    "name": "longnguyen/phpunit",
+    "description": "phpunit demo",
+    "authors": [
+        {
+            "name": "long nguyen",
+            "email": "nguyentienlong88@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "LongKa\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4" : {
+            "Test\\": "test/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5"
+    },
+    "require": {
+        "nesbot/carbon": "^1.21"
+    }
+}
